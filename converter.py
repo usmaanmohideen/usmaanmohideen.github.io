@@ -9,7 +9,7 @@ a = pd.read_csv("poinst.csv")
 
 # to save as html file
 # named as "Table"
-a.to_html("index.htm")
+a.to_html("index.html")
 
 # assign it to a
 # variable (string)
